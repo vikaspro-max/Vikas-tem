@@ -11,7 +11,7 @@ window.SITE_CONFIG = {
   email: "vikas7pro@gmail.com",
 
   // Full profile URLs (must start with https://)
-  instagram: "https://www.instagram.com/vikas.creation/",
+  instagram: "https://www.instagram.com/_vikas.creation_/",
   linkedin: "https://www.linkedin.com/in/vikas-tem?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   github: "https://github.com/vikaspro-max",
 
